@@ -1,0 +1,38 @@
+一。数据库：
+1.Oracle（大型）
+客户端工具是：plsql
+必须知道的是：索引，存储过程，触发器，函数，数据库的优化，SQL优化
+
+2.mySql（小型）
+navicat for mysql
+
+
+3.DB2（不常用）
+
+这三个的语言都是基于SQL语言
+
+二.后台（处理业务逻辑，获取数据库中的数据）
+主要语言：
+JAVA，C，C++
+微软(C#，.NET)
+苹果(IOS) 
+微软(Android)主要是手机
+
+
+三.前台（页面展示）
+美工：（HTML，HTML5，CSS）
+前端开发人员：（HTML/HTML5，   CSS，   Javascript,jquery, PHP（界面比较绚丽）  前端框架（bootstrap,easyui））
+
+
+四.框架（全部用java语言和配置文件实现）
+前端（struts1,struts2,springMVC）
+后端（spring）
+拿数据方式（batis,mybatis,hibernate3）
+
+
+测试人员：
+
+浏览器：ie8，ie11，google ,火狐（华为不能用）
+
+
+
